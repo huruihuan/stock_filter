@@ -1,0 +1,9 @@
+tushare>=1.2.89
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+mplfinance>=0.12.7a0
+dtaidistance>=2.3.0
+scikit-learn>=1.2.0
+torch>=2.0.0
+openai>=1.0.0
